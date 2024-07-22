@@ -1,0 +1,25 @@
+.header_wrap .d-flex{
+  background-color: #003366 ;
+  color: white;
+}
+/* .navbar-expnd-lg{
+  display: block;
+} */
+
+.mt-5 .row .col-4 img{
+  width: 120%;
+  height: 65vh;
+}
+.footer {
+  background-color: #003366 ;
+}
+.footer .container .row .col {
+ width: 350px;
+ margin-left: 30px;
+}
+
+.development .container{
+  background-image: url(./img/breadcrumbs.jpg);
+  /* height: 30vh; */
+}
+
