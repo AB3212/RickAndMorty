@@ -149,7 +149,7 @@ img{
 .card_d .text-gray {
     color: rgb(158, 158, 158);
 }
-@media (max-width: 767px) {
+@media (max-width: 1080px) {
   .card_body {
       flex-direction: column;
       width: 100%;
